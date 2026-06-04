@@ -244,10 +244,8 @@ TOTAL                22      0   100%
 **Посилання на репозиторій:**
 
 ```
-[https://github.com/username/PizzaFlow](https://github.com/yuriiiudin-ui/LR03_OPI)
+(https://github.com/yuriiiudin-ui/LR03_OPI)
 ```
-
-> Замініть адресу на фактичне посилання на ваш GitHub-репозиторій.
 
 ---
 
